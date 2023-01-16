@@ -12,3 +12,5 @@ Original file is located at
 
 def simple_multiplication(a):
   return a * 8 if a % 2 == 0 else a * 9
+
+# Выполнено
