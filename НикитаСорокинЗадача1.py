@@ -12,3 +12,5 @@ Original file is located at
 
 def even_or_odd(a):
   return "Even" if a % 2 == 0 else "Odd"
+
+# Выполнено
